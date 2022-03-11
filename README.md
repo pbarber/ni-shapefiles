@@ -5,7 +5,7 @@ Shape files for Northern Ireland
 ## Process
 
 1. Download zipped shapefile
-2. Upload to mapshaper
+2. Upload to [mapshaper](https://mapshaper.org/)
 3. Simplify to 5% (or until just before details start to disappear)
 4. Use the Console to convert to WGS84 `proj wgs84`
 5. Export as TopoJSON
